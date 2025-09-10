@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
   <version>1.2.0.0</version>
-  <url>https://your-host/release/YourApp_1.2.0.zip</url>
-  <changelog>https://your-host/release/changelog_1.2.0.html</changelog>
+ <url>https://github.com/Tcon03/AutoUpdate-Version/releases/latest/download/VietStem.zip</url>
+  <changelog></changelog>
   <mandatory>false</mandatory>
-  <checksum algorithm="SHA256">PASTE_SHA256_HERE</checksum>
 </item>
