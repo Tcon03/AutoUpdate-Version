@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item>
+  <version>1.2.0.0</version>
+  <url>https://your-host/release/YourApp_1.2.0.zip</url>
+  <changelog>https://your-host/release/changelog_1.2.0.html</changelog>
+  <mandatory>false</mandatory>
+  <checksum algorithm="SHA256">PASTE_SHA256_HERE</checksum>
+</item>
