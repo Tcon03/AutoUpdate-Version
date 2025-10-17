@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-  <version>1.4.0.0</version>
+  <version>1.5.0.0</version>
    <url>https://github.com/Tcon03/AutoUpdate-Version/releases/latest/download/VietStem.zip</url>
   <changelog></changelog>
-  
   <mandatory>false</mandatory>
 </item>
